@@ -1,3 +1,13 @@
-# sandeshjadhav1252
-emoji 
-stiker
+LICENSE
+README.md
+
+.env
+.gitignore
+
+.git/
+__pycache__/
+
+
+
+
+
